@@ -12,3 +12,7 @@ void main() => runApp( new MaterialApp(
   home:BillSplitter(),
   
   if I want to involke BillSplitter class
+Apps created
+1.generate random quote (use class name :Wisdom)
+2.business card( bizcard)
+3.quiz app(Quiz)
