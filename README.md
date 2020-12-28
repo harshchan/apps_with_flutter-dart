@@ -15,4 +15,4 @@ void main() => runApp( new MaterialApp(
 Apps created
 1.generate random quote (use class name :Wisdom)
 2.business card( bizcard)
-3.quiz app(Quiz)
+3.quiz app(Quiz).
