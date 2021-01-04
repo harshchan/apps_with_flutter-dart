@@ -16,4 +16,4 @@ Apps created
 1.generate random quote (use class name :Wisdom)
 2.business card( bizcard)
 3.quiz app(Quiz).
- We can create as many as apps we want in single dart file we just have to mention the names of class in main.dart.
+ We can create as many as apps we want in single dart file we just have to mention the names of class in "main.dart".
